@@ -42,6 +42,10 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 ---
 
 ## 📂 Estrutura do Repositório
+### 📄 Documentação e Resultados
+
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)]()
+[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
 
 - 📄 `Modulare_DR4_revisao_02.docx`: Documentação técnica detalhada do projeto, incluindo roteiros, dimensionamento e especificações do produto.
 - 📊 `Relatorio_Selecao_Linha_Prime.pdf`: Relatório de viabilidade e matriz de decisão comprovando a escolha da Linha Prime com base em ergonomia e funcionalidade.
@@ -57,4 +61,4 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 * Visão Sistêmica: Conectando o desejo do cliente à realidade da linha de montagem.
 
 ---
-*Projeto desenvolvido durante o curso de Gestão da Produção Industrial.*
+**Projeto desenvolvido durante o curso de Gestão da Produção Industrial.**
