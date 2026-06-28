@@ -44,8 +44,8 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 ## 📂 Estrutura do Repositório
 ### 📄 Documentação e Resultados
 
-[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)]()
-[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/API-GPI-Grupo-3-Automotiva/Metalurgica-API/blob/main/Docs/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
+[![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos/blob/main/Documentos/Modulare%20DR4.pdf)
+[![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)]()
 
 - 📄 `Modulare_DR4_revisao_02.docx`: Documentação técnica detalhada do projeto, incluindo roteiros, dimensionamento e especificações do produto.
 - 📊 `Relatorio_Selecao_Linha_Prime.pdf`: Relatório de viabilidade e matriz de decisão comprovando a escolha da Linha Prime com base em ergonomia e funcionalidade.
