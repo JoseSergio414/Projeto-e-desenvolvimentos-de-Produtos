@@ -52,7 +52,7 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 
 ---
 
-- 🖼️ Imagens do Projetos
+## 🖼️ Imagens do Projetos
 
 > **Croqui 1**
 
