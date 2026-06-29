@@ -54,13 +54,31 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 
 - 🖼️ Imagens do Projetos
 
+> **Croqui 1**
+
+<img width="582" height="582" alt="image" src="https://github.com/user-attachments/assets/a222c1e9-3410-4efc-9fa2-af0f779bf073" />
+
+---
+
+> **Croqui 2**
+
+<img width="471" height="490" alt="image" src="https://github.com/user-attachments/assets/98ca291c-e0c8-4300-ab5e-3e941472d1ce" />
+
+---
+
+> **Croqui3 (escolhido)**
+
 <img width="660" height="626" alt="image" src="https://github.com/user-attachments/assets/36e7f36e-2e19-4d58-a603-9d6f1d57800c" />
 
 ---
 
+> **Numerações de peças**
+
 <img width="521" height="735" alt="image" src="https://github.com/user-attachments/assets/35ac4164-ffff-4d13-84a8-d0621dc02c5c" />
 
 ---
+
+> **Folha Técnica**
 
 <img width="983" height="661" alt="image" src="https://github.com/user-attachments/assets/83bf7003-2d9e-47a9-8e09-bcc8bd2a6c25" />
 
