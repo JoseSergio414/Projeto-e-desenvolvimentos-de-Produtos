@@ -12,7 +12,7 @@
 
 Este repositório documenta as etapas práticas da disciplina de **Projeto e Desenvolvimento de Produtos**. O objetivo central foi projetar um móvel planejado modular desde a sua concepção (briefing) até o detalhamento técnico (fase DR4), garantindo que o produto final fosse funcional, viável para manufatura e comercialmente atrativo.
 
-O projeto resultou na concepção do modelo **Modulare**, onde a **Linha Prime** foi a selecionada para detalhamento final.
+"Para este projeto da empresa **Modulare**, o modelo **Linha Prime** foi o vencedor selecionado para a fase de detalhamento final e validação de manufatura."
 
 **Orientador:** Prof. Fábio José Santos de Oliveira
 
