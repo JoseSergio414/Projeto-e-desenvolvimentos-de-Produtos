@@ -42,14 +42,23 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 ---
 
 ## 📂 Estrutura do Repositório
+
 ### 📄 Documentação e Resultados
 
+- 📄Documentação técnica detalhada do projeto, incluindo roteiros, dimensionamento e especificações do produto.
 [![Ver Apresentação](https://img.shields.io/badge/Ver_Apresentação_Executiva-E60023?style=for-the-badge&logo=google-slides&logoColor=white)](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos/blob/main/Documentos/Modulare%20DR4.pdf)
 [![Ler Relatório Técnico](https://img.shields.io/badge/Ler_Relatório_Completo_(PDF)-323232?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/JoseSergio414/Projeto-e-desenvolvimentos-de-Produtos/blob/main/Documentos/Modulare_DR4%20revis%C3%A3o%2002.pdf)
 
-- 📄 `Modulare_DR4_revisao_02.docx`: Documentação técnica detalhada do projeto, incluindo roteiros, dimensionamento e especificações do produto.
+
 - 📊 `Relatorio_Selecao_Linha_Prime.pdf`: Relatório de viabilidade e matriz de decisão comprovando a escolha da Linha Prime com base em ergonomia e funcionalidade.
-- 🖼️ `Imagens_e_Projetos/`: *(Adicione aqui capturas de tela dos desenhos técnicos, esboços 3D ou planilhas de materiais).*
+- <img width="1592" height="841" alt="image" src="https://github.com/user-attachments/assets/8614f0ef-8b55-49d1-b8b3-71a2fb621bed" />
+
+- 🖼️ `Imagens_e_Projetos/
+- <img width="660" height="626" alt="image" src="https://github.com/user-attachments/assets/36e7f36e-2e19-4d58-a603-9d6f1d57800c" />
+- <img width="521" height="735" alt="image" src="https://github.com/user-attachments/assets/35ac4164-ffff-4d13-84a8-d0621dc02c5c" />
+
+
+
 
 ---
 
