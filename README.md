@@ -66,7 +66,7 @@ O projeto seguiu a metodologia estruturada de desenvolvimento de produtos, culmi
 
 ---
 
-> **Croqui3 (escolhido)**
+> **Croqui 3 (escolhido)**
 
 <img width="660" height="626" alt="image" src="https://github.com/user-attachments/assets/36e7f36e-2e19-4d58-a603-9d6f1d57800c" />
 
